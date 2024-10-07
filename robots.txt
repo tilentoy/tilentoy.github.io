@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tilentoy.github.io/sitemap.html.gz
+Sitemap: https://tilentoy.github.io/app/sitemap.html.gz
+Sitemap: https://tilentoy.github.io/assets/sitemap.html.gz
+Sitemap: https://tilentoy.github.io/css/sitemap.html.gz
+Sitemap: https://tilentoy.github.io/data/sitemap.html.gz
+Sitemap: https://tilentoy.github.io/includes/sitemap.html.gz
+Sitemap: https://tilentoy.github.io/item/sitemap.html.gz
+Sitemap: https://tilentoy.github.io/src/sitemap.html.gz
